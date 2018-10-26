@@ -1,0 +1,5 @@
+/Users/huanjiaoqiu/Projects/a/a/bin/Debug/a.exe
+/Users/huanjiaoqiu/Projects/a/a/bin/Debug/a.pdb
+/Users/huanjiaoqiu/Projects/a/a/obj/x86/Debug/a.csproj.CoreCompileInputs.cache
+/Users/huanjiaoqiu/Projects/a/a/obj/x86/Debug/a.exe
+/Users/huanjiaoqiu/Projects/a/a/obj/x86/Debug/a.pdb
