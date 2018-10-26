@@ -34,7 +34,7 @@ PorterStemmer         | The term stemmer applied in this program
 
 ## Screenshots
 The below screenshot demonstrates the search engine GUI and the operational components.
-![Demonstrate the simple GUI](https://github.com/msacwendychan/Document-Search-Engine/blob/master/query%20input.png)
+![Demonstrate the simple GUI](https://github.com/msacwendychan/Document-Search-Engine/blob/master/Screenshots/query%20input.png)
 
 For more screenshots, please go to https://github.com/msacwendychan/Document-Search-Engine/tree/master/Screenshots
 
