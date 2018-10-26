@@ -34,7 +34,7 @@ PorterStemmer         | The term stemmer applied in this program
 
 ## Screenshots
 The below screenshot demonstrates the search engine GUI and the operational components.
-![Demonstrate the simple GUI](/IFN647/Project/Captured Screens/query input.png)
+![Demonstrate the simple GUI](https://imgur.com/4lhR5eN)
 
 ## Contributing
 
